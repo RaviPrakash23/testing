@@ -12,3 +12,5 @@ You may also want to check out other Website templates - https://templateflip.co
 License
 
 Licensed under the Creative Commons Attribution 3.0 license. You can use this template for free in both personal as well as commercial projects. In return, just credit https://templateflip.com for the website template on your site.
+
+This is new edition.
